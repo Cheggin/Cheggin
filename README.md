@@ -88,5 +88,3 @@ const reagan = {
 </div>
 
 ---
-
-**📧 reaganhsu123@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/reaganhsu)**
