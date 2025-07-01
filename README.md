@@ -25,7 +25,7 @@ const reagan = {
           GPU and compiler-level optimizations.`,
 
 
-  hobbies: ["vlogging", "travelling", "reading", "gym", "volleyball", "watching sunsets while blasting music"]
+  hobbies: ["vlogging", "travelling", "cooking", "baking", "reading", "gym", "volleyball", "watching sunsets while blasting music"]
 }
 ```
 
