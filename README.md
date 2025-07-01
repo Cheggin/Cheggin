@@ -13,7 +13,7 @@
 ```javascript
 const reagan = {
   pronouns: "he" | "him" | "his",
-  code: [Typescript, Java, Python, Javascript, C],
+  languages: [Typescript, Java, Python, Javascript, C],
   tools: ["React Native", "Supabase", "TensorFlow", "SciKit Learn", "pandas", "Docker", "Render", "Flask",
           "Expo", "Vercel"],
   architecture: ["multi-modality AI", "data pipelines", "cross-platform apps"],
@@ -21,7 +21,8 @@ const reagan = {
                       "projects.director": "ACM at UCSD",
                       "cancer.researcher": "UC San Diego Ongkeko Lab"
                    },
-  challenge: "Building AI/ML solutions for healthcare and making more efficient models.",
+  goals: `Building AI/ML solutions for healthcare and making more efficient models using
+          GPU and compiler-level optimizations.`,
 
 
   hobbies: ["vlogging", "travelling", "reading", "gym", "volleyball", "watching sunsets while blasting music"]
