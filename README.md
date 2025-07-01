@@ -1,62 +1,30 @@
-# Hi there, I'm Reagan Hsu! 👋
+[![AI/ML Research](https://img.shields.io/badge/AI%2FML-Research-blueviolet?style=for-the-badge)](https://github.com/Cheggin)
+[![Development Portfolio](https://img.shields.io/badge/Development-Portfolio-blue?style=for-the-badge)](https://github.com/Cheggin?tab=repositories)
+[![Open Source Projects](https://img.shields.io/badge/Open%20Source-Projects-blueviolet?style=for-the-badge)](https://github.com/Cheggin?tab=repositories)
 
-🎓 **Computer Science Student** at UC San Diego | 4.0 GPA | Expected Graduation: June 2026
+# About Reagan
 
-🔬 **AI/ML Researcher** passionate about deep learning, LLM benchmarking, and medical imaging applications
+> **💡 Important**
+> 
+> **Hey, I'm Reagan!**
+> 
+> I build AI/ML systems that solve real-world problems and make technology more accessible. Day-to-day I'm in the Python and TensorFlow trenches, training deep learning models for medical imaging, developing LLM benchmarking frameworks, and contributing to [AI research publications](https://github.com/Cheggin) and [open-source ML tools](https://github.com/Cheggin?tab=repositories). Beyond research, I architect data processing pipelines and orchestration systems, and specialize in building scalable cross-platform applications for production environments. I live in the CLI, and am the creator of award-winning hackathon projects!
+> 
+> If you enjoy my [research contributions](https://github.com/Cheggin), [project showcases](https://github.com/Cheggin?tab=repositories), or [development tools](https://github.com/Cheggin), feel free to reach out and connect!
 
-## 🚀 What I'm Currently Working On
+## Research & Development
 
-- 🧠 **AI/ML Research at Algoverse**: Developing LLM benchmarking techniques based on the GAIA framework
-- 🏥 **Cancer Research at UCSD**: Training multi-modality deep learning models for HNSCC prognosis
-- 💻 **Front-End Lead at NetSerpent**: Leading React Native Web development with Expo and Tauri
-- 🎯 **ACM Projects Director**: Managing Hack, Design, and AI project teams
-
-## 🏆 Recent Wins
-
-- 🥇 **1st Place** - Intel x ACM SCU Hackathon (CiteTrace)
-- 🏅 **Best use of Auth0** - ACM DiamondHacks (PillSnap)
-- 📊 **Best Poster Presenter** - PMBMC 2023
-
-## 💻 Tech Stack
-
-**Languages:** Java, Python, TypeScript, JavaScript, C, MATLAB
-
-**AI/ML:** TensorFlow, SciKit Learn, Hugging Face, RAG Models, Gemini
-
-**Web/Mobile:** React Native, Flask, Docker, Expo, Tauri
-
-**Data:** pandas, d3-force, REST APIs
-
-## 🔬 Research Interests
-
-- 🤖 Large Language Model benchmarking and evaluation
-- 🏥 Medical imaging and deep learning applications
-- 🧬 Computational biology and bioinformatics
-- 📊 Data visualization and analysis
-
-## 🌟 Featured Projects
-
-### 🏥 [PillSnap](https://github.com/Cheggin/PillSnap)
-Cross-platform medication safety app with fine-tuned Gemini model for pill identification
-- **Tech:** Python Flask, GCP, Auth0, Drugs.com API, OpenFDA API
-- **Award:** Best use of Auth0 @ ACM DiamondHacks
-
-### 📚 [CiteTrace](https://github.com/Cheggin/CiteTrace)
-Research visualization tool with RAG model for article analysis
-- **Tech:** RAG Models, d3-force, Hugging Face, Node clustering
-- **Award:** 1st Place @ Intel x ACM SCU Hackathon
-
-## 📈 GitHub Stats
-
-![Reagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheggin&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect!
-
-- 📧 Email: reaganhsu123@gmail.com
-- 📱 Phone: (714) 686-8809
-- 💼 [LinkedIn](https://linkedin.com/in/reaganhsu)
-- 🐙 [GitHub](https://github.com/Cheggin)
+- [LLM Benchmarking with GAIA Framework](https://github.com/Cheggin)
+- [Multi-modality Deep Learning for Cancer Prognosis](https://github.com/Cheggin)
+- [Cross-platform App Development with React Native](https://github.com/Cheggin)
+- [PillSnap: AI-Powered Medication Safety](https://github.com/Cheggin/PillSnap)
+- [CiteTrace: Research Visualization with RAG](https://github.com/Cheggin/CiteTrace)
+- [Automated Data Processing Pipelines](https://github.com/Cheggin)
+- [Tool-Use Reasoning via ToolLLM](https://github.com/Cheggin)
+- [ACM Project Team Leadership](https://github.com/Cheggin)
+- [Fine-tuning Gemini for Computer Vision](https://github.com/Cheggin)
+- [Academic Research: From Algorithms to Applications](https://github.com/Cheggin)
 
 ---
 
-*Always open to collaborating on AI/ML projects, research opportunities, and innovative tech solutions!*
+**📧 reaganhsu123@gmail.com** • **📱 (714) 686-8809** • **💼 [LinkedIn](https://linkedin.com/in/reaganhsu)**
