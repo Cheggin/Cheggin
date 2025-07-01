@@ -8,13 +8,16 @@
 const reagan = {
   pronouns: "he" | "him" | "his",
   code: [Typescript, Java, Python, Javascript, C],
-  tools: ["React Native", "Supabase", "TensorFlow", "SciKit Learn", "pandas", "Docker", "Render", "Flask", "Expo", "Vercel"],
+  tools: ["React Native", "Supabase", "TensorFlow", "SciKit Learn", "pandas", "Docker", "Render", "Flask",
+          "Expo", "Vercel"],
   architecture: ["multi-modality AI", "data pipelines", "cross-platform apps"],
   techCommunities: {
                       "projects.director": "ACM at UCSD",
                       "cancer.researcher": "UC San Diego Ongkeko Lab"
                    },
   challenge: "Building AI/ML solutions for healthcare and making more efficient models.",
+
+
   hobbies: ["vlogging", "travelling", "reading", "gym", "volleyball", "watching sunsets while blasting music"]
 }
 ```
