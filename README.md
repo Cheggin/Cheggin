@@ -2,6 +2,8 @@
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ReaganHsu123)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reagan._.hsu/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cheggin&color=blue&style=for-the-badge&label=Profile+Views)
+
 > [!IMPORTANT]
 > 
 > **Hey, I'm Reagan!**
