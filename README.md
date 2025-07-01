@@ -1,30 +1,23 @@
-[![AI/ML Research](https://img.shields.io/badge/AI%2FML-Research-blueviolet?style=for-the-badge)](https://github.com/Cheggin)
 [![Development Portfolio](https://img.shields.io/badge/Development-Portfolio-blue?style=for-the-badge)](https://github.com/Cheggin?tab=repositories)
-[![Open Source Projects](https://img.shields.io/badge/Open%20Source-Projects-blueviolet?style=for-the-badge)](https://github.com/Cheggin?tab=repositories)
+[![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ReaganHsu123)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reagan._.hsu/)
 
-# About Reagan
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=5000&pause=2000&color=6366F1&width=600&height=60&lines=About+Reagan" alt="Typing SVG" />
 
-> **💡 Important**
+> [!NOTE]
 > 
 > **Hey, I'm Reagan!**
 > 
-> I build AI/ML systems that solve real-world problems and make technology more accessible. Day-to-day I'm in the Python and TensorFlow trenches, training deep learning models for medical imaging, developing LLM benchmarking frameworks, and contributing to [AI research publications](https://github.com/Cheggin) and [open-source ML tools](https://github.com/Cheggin?tab=repositories). Beyond research, I architect data processing pipelines and orchestration systems, and specialize in building scalable cross-platform applications for production environments. I live in the CLI, and am the creator of award-winning hackathon projects!
-> 
+> Academically, I'm an AI/ML researcher studying head and neck squamous cell carcinoma (HNSCC) and LLM grading and testing. In the past, I've studied the effects of nicotine exposure on epigenetic age acceleration and Ferrell's Inequality with composite cellular signaling reactions. Though improving AI tools and workflows is a big passion of mine, at my core I'm a computer scientist wants to help others through web development. You can check out some of my projects below! 
+>
+> As a person, I enjoy vlogging, travelling, reading, going to the gym, playing volleyball, and watching sunsets while blasting music. 
 > If you enjoy my [research contributions](https://github.com/Cheggin), [project showcases](https://github.com/Cheggin?tab=repositories), or [development tools](https://github.com/Cheggin), feel free to reach out and connect!
 
-## Research & Development
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=2000&color=6366F1&width=400&lines=My+Work%3A+More+to+Come!" alt="My Work Typing SVG" />
 
-- [LLM Benchmarking with GAIA Framework](https://github.com/Cheggin)
-- [Multi-modality Deep Learning for Cancer Prognosis](https://github.com/Cheggin)
-- [Cross-platform App Development with React Native](https://github.com/Cheggin)
-- [PillSnap: AI-Powered Medication Safety](https://github.com/Cheggin/PillSnap)
-- [CiteTrace: Research Visualization with RAG](https://github.com/Cheggin/CiteTrace)
-- [Automated Data Processing Pipelines](https://github.com/Cheggin)
-- [Tool-Use Reasoning via ToolLLM](https://github.com/Cheggin)
-- [ACM Project Team Leadership](https://github.com/Cheggin)
-- [Fine-tuning Gemini for Computer Vision](https://github.com/Cheggin)
-- [Academic Research: From Algorithms to Applications](https://github.com/Cheggin)
-
+- [ThankMyTeacher](https://ThankMyTeacher.net)
+- [PillSnap](https://pillsnap.tech)
+- [Bouncer](https://Bouncer-app.com) (closed to Public)
+- [Personal Portfolio] (working on it 😭)
 ---
-
-**📧 reaganhsu123@gmail.com** • **📱 (714) 686-8809** • **💼 [LinkedIn](https://linkedin.com/in/reaganhsu)**
+**📧 reaganhsu123@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/reaganhsu)**
