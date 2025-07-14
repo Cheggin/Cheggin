@@ -1,4 +1,4 @@
-[![Development Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cheggin?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://reaganhsu.com)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ReaganHsu123)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reagan._.hsu/)
 
@@ -77,12 +77,12 @@ const reagan = {
 </td>
 <td width="50%" align="center">
 
-### 🚀 **Personal Portfolio**
-*Working on it 😭*
+### 🚀 **[Personal Portfolio](https://reaganhsu.com)**
+*Modern, interactive portfolio showcasing my projects and skills*
 
-**Tech Stack:** Coming Soon
+**Tech Stack:** React • TypeScript • Vite • CSS3 • Liquid Glass Effects
 
-[![In Progress](https://img.shields.io/badge/🚧_In_Progress-17a2b8?style=flat-square)]()
+[![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://reaganhsu.com)
 
 <br>
 
