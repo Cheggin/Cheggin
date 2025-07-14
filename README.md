@@ -1,4 +1,4 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://reaganhsu.com)
+[![Website / Portfolio](https://img.shields.io/badge/Website%20%2F%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://reaganhsu.com)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ReaganHsu123)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reagan._.hsu/)
 
@@ -78,7 +78,7 @@ const reagan = {
 <td width="50%" align="center">
 
 ### 🚀 **[Personal Portfolio](https://reaganhsu.com)**
-*Modern, interactive portfolio showcasing my projects and skills*
+*My personal website for both recruiters and anybody who wants to get to know me!*
 
 **Tech Stack:** React • TypeScript • WebGL • CSS3 • Vite • Vercel 
 
