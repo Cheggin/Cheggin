@@ -80,7 +80,7 @@ const reagan = {
 ### 🚀 **[Personal Portfolio](https://reaganhsu.com)**
 *Modern, interactive portfolio showcasing my projects and skills*
 
-**Tech Stack:** React • TypeScript • Vite • CSS3 • Liquid Glass Effects
+**Tech Stack:** React • TypeScript • WebGL • CSS3 • Vite • Vercel 
 
 [![Live](https://img.shields.io/badge/🌐_Live-28a745?style=flat-square)](https://reaganhsu.com)
 
