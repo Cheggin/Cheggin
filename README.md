@@ -8,26 +8,28 @@
 > 
 > **Hey, I'm Reagan!**
 > 
-> Academically, I'm an AI/ML researcher studying head and neck squamous cell carcinoma (HNSCC) and LLM grading and testing. In the past, I've studied the effects of nicotine exposure on epigenetic age acceleration and Ferrell's Inequality with composite cellular signaling reactions. Though improving AI tools and workflows is a big passion of mine, at my core, I'm a computer scientist who wants to help others through web development. You can check out some of my projects below! 
+> Academically, I'm an AI/ML researcher studying head and neck squamous cell carcinoma (HNSCC) and LLM grading and testing. In the past, I've studied the effects of nicotine exposure on epigenetic age acceleration and Ferrell's Inequality with composite cellular signaling reactions. Though improving AI tools and workflows is a big passion of mine, at my core, I'm a computer scientist who wants to help others through web development.
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=2000&color=FFFFFF&width=500&height=80&lines=About+Me" alt="Typing SVG" />
 
 ```javascript
 const reagan = {
   pronouns: "he" | "him" | "his",
-  languages: [Typescript, Java, Python, Javascript, C],
-  tools: ["React Native", "Supabase", "TensorFlow", "SciKit Learn", "pandas", "Docker", "Render", "Flask",
-          "Expo", "Vercel"],
-  architecture: ["multi-modality AI", "data pipelines", "cross-platform apps"],
+  languages: [TypeScript, Python, Java, JavaScript, C],
+  tools: ["React", "React Native", "Vite", "Convex", "Supabase", "Browser Use", 
+          "Claude API", "FastAPI", "PostgreSQL", "Expo", "Vercel", "Tailwind CSS"],
+  architecture: ["web agents", "RAG systems", "cross-platform apps", "browser extensions", 
+                 "real-time analytics"],
   techCommunities: {
-                      "projects.director": "ACM at UCSD",
-                      "cancer.researcher": "UC San Diego Ongkeko Lab"
+                      "growth.engineer": "Browser Use (YC W25)",
+                      "campus.ambassador": "Anthropic Claude",
                    },
-  goals: `Building AI/ML solutions for healthcare and making more efficient models using
-          GPU and compiler-level optimizations.`,
 
+  goals: `Building intelligent browser agents that make the web more accessible and automated. 
+          Shipping daily with 100 apps in 100 days challenge.`,
 
   hobbies: ["vlogging", "travelling", "cooking", "baking", "reading", "gym", "volleyball",
             "watching sunsets while blasting music"]
 }
+
 ```
