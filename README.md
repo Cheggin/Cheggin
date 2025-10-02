@@ -33,3 +33,8 @@ const reagan = {
 }
 
 ```
+
+100 Apps, 100 Days:
+1. Job Use [https://github.com/Cheggin/Job-Use]
+2. Resume Use [https://github.com/ShawnPana/resume-use]
+3. News Use [https://news-use.dev/], [https://github.com/Cheggin/news-use]
