@@ -38,3 +38,7 @@ const reagan = {
 1. Job Use [https://github.com/Cheggin/Job-Use]
 2. Resume Use [https://github.com/ShawnPana/resume-use]
 3. News Use [https://news-use.dev/], [https://github.com/Cheggin/news-use]
+4. Carp [https://github.com/Cheggin/sushihacks2025]
+5. VC-Use [https://vc-use.dev], [https://github.com/ShawnPana/vc-use]
+6. VC-Use (but better) [https://vc-use.dev], [https://github.com/ShawnPana/vc-use]
+7. 2048 Use [https://github.com/Cheggin/2048-use]
