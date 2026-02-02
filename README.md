@@ -10,7 +10,7 @@
 > 
 > I like programming and automating the web! You can find more info on me at my [portfolio](https://reaganhsu.com) :D
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=2000&color=FFFFFF&width=500&height=80&lines=About+Me" alt="Typing SVG" />
+## About Me
 
 ```javascript
 const reagan = {
@@ -20,25 +20,13 @@ const reagan = {
            "FastAPI", "PostgreSQL", "Expo", "Vercel", "Tailwind CSS"],
   architecture: ["web agents", "RAG systems", "cross-platform apps", "browser extensions", 
                  "real-time analytics"],
-  techCommunities: {
+  career: {
                       "growth.engineer": "Browser Use (YC W25)",
-                      "claude.campus.ambassador": "Anthropic",
-
                    },
-  goals: `Building intelligent browser agents that make the web more accessible and automated. 
-          Shipping daily with 100 apps in 100 days challenge.`,
+  goals: `Do more content!`,
 
   hobbies: ["vlogging", "travelling", "cooking", "baking", "reading", "gym", "volleyball",
             "watching sunsets while blasting music"]
 }
 
 ```
-
-Browser Use Demos:
-1. Job Use [https://github.com/Cheggin/Job-Use]
-2. Resume Use [https://github.com/ShawnPana/resume-use]
-3. News Use [https://news-use.dev/], [https://github.com/Cheggin/news-use]
-4. Carp [https://github.com/Cheggin/sushihacks2025]
-5. VC-Use [https://vc-use.dev], [https://github.com/ShawnPana/vc-use]
-6. VC-Use (but better) [https://vc-use.dev], [https://github.com/ShawnPana/vc-use]
-7. 2048 Use [https://github.com/Cheggin/2048-use]
