@@ -21,7 +21,7 @@ const reagan = {
   architecture: ["web agents", "RAG systems", "cross-platform apps", "browser extensions", 
                  "real-time analytics"],
   career: {
-                      "growth.engineer": "Browser Use (YC W25)",
+                      "MTS": "Datacurve AI",
                    },
   goals: `Do more content!`,
 
