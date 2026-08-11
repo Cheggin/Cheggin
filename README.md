@@ -8,7 +8,7 @@
 > 
 > **Hey, I'm Reagan!**
 > 
-> I like programming and automating the web! You can find more info on me at my [portfolio](https://reaganhsu.com) :D
+> You can find more info on me at my [portfolio](https://reaganhsu.com) :D
 
 ## About Me
 
