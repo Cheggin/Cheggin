@@ -20,7 +20,7 @@ const reagan = {
            "FastAPI", "PostgreSQL", "Expo", "Vercel", "Tailwind CSS"],
   architecture: ["web agents", "RAG systems", "cross-platform apps", "browser extensions", 
                  "real-time analytics"],
-  career: {"MTS": "Datacurve AI",},
+  career: {"MTS": "Datacurve AI"},
   goals: `Do more content!`,
 
   hobbies: ["vlogging", "travelling", "cooking", "baking", "reading", "gym", "volleyball",
