@@ -15,14 +15,8 @@
 ```javascript
 const reagan = {
   pronouns: "he" | "him" | "his",
-  languages: [TypeScript, Python, Java, JavaScript, C],
-  tools: ["React", "React Native", "Vite", "Convex", "Supabase", "Browser Use", 
-           "FastAPI", "PostgreSQL", "Expo", "Vercel", "Tailwind CSS"],
-  architecture: ["web agents", "RAG systems", "cross-platform apps", "browser extensions", 
-                 "real-time analytics"],
   career: {"MTS": "Datacurve AI"},
   goals: `Do more content!`,
-
   hobbies: ["vlogging", "travelling", "cooking", "baking", "reading", "gym", "volleyball",
             "watching sunsets while blasting music"]
 }
